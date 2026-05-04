@@ -1,30 +1,36 @@
-# Hi, I'm Adeolu Fabiyi 👋
+# 👋 Hi, I'm Adeolu
 
-**DevOps | Platform Engineering | Automation-First Developer**
+🚀 Backend & DevOps Engineer (Transitioning)
 
-I bridge development and operations — designing resilient, observable, and automated infrastructure that powers modern applications. Background in full-stack development (.NET, React, Python) gives me strong context for developer experience and production reliability.
+I build scalable backend systems and I'm currently evolving into DevOps by focusing on:
 
-### 🛠️ Tech Stack & Expertise
+- 🐳 Docker (Containerization)
+- ⚙️ CI/CD (GitHub Actions)
+- ☁️ Cloud Deployment (Azure - learning)
+- 🔧 Automation (Python)
 
-**Cloud & Infra**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white) 
-![Azure](...) 
-![Terraform](...) 
-![Docker](...) 
-![Kubernetes](...)
+---
 
-**CI/CD & Automation**  
-GitHub Actions • Jenkins • ArgoCD • Ansible
+## 🔥 DevOps Projects
 
-**Observability**  
-Prometheus • Grafana • ELK • OpenTelemetry
+### 🚀 Containerized API + SQL Server
+- Dockerized ASP.NET Core / Node.js app
+- Multi-container setup using docker-compose
+- API + Database connected via internal network
 
-**Languages & Tools**  
-Python • Go • .NET • React • Bash • ...
+### ⚙️ CI/CD Pipeline
+- Automated build & run using GitHub Actions
+- Triggered on every push to main branch
 
-### 🚀 Featured DevOps Projects
-- **[Project-Name](link)**: Brief one-liner (e.g., "Multi-environment IaC deployment with Terraform + GitHub Actions on AWS EKS")
-- ...
+---
 
-### 📈 GitHub Stats
-<!-- Use https://github.com/anuraghazra/github-readme-stats -->
+## 🧠 Backend Strength
+- ASP.NET Core, Node.js
+- JWT Authentication & RBAC
+- MSSQL, MySQL
+- API Design & System Architecture
+
+---
+
+## 📌 Current Focus
+Becoming a DevOps Engineer by combining backend systems with automation, deployment, and monitoring.
